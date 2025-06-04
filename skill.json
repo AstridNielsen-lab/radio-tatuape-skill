@@ -1,0 +1,44 @@
+{
+    "manifest":  {
+                     "publishingInformation":  {
+                                                   "isAvailableWorldwide":  false,
+                                                   "locales":  {
+                                                                   "pt-BR":  {
+                                                                                 "summary":  "Ouça a Radio Tatuapé FM",
+                                                                                 "description":  "Skill oficial da Radio Tatuapé FM. Ouça nossa programação ao vivo através da Alexa.",
+                                                                                 "name":  "Radio Tatuapé FM",
+                                                                                 "examplePhrases":  [
+                                                                                                        "Alexa, abra Radio Tatuapé",
+                                                                                                        "Alexa, peça para Radio Tatuapé tocar música",
+                                                                                                        "Alexa, reproduzir Radio Tatuapé"
+                                                                                                    ],
+                                                                                 "keywords":  [
+                                                                                                  "radio",
+                                                                                                  "tatuape",
+                                                                                                  "fm",
+                                                                                                  "música",
+                                                                                                  "streaming"
+                                                                                              ]
+                                                                             }
+                                                               },
+                                                   "category":  "MUSIC_AND_AUDIO",
+                                                   "testingInstructions":  "Para testar a skill, diga \u0027Alexa, abra Radio Tatuapé\u0027 e a rádio começará a tocar.",
+                                                   "distributionCountries":  [
+                                                                                 "BR"
+                                                                             ]
+                                               },
+                     "manifestVersion":  "1.0",
+                     "apis":  {
+                                  "custom":  {
+                                                 "interfaces":  [
+                                                                    {
+                                                                        "type":  "AUDIO_PLAYER"
+                                                                    }
+                                                                ],
+                                                 "endpoint":  {
+                                                                  "uri":  "arn:aws:lambda:us-east-1:YOUR_AWS_ACCOUNT_ID:function:radio-tatuape-skill"
+                                                              }
+                                             }
+                              }
+                 }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "radio-tatuape-skill",
+  "version": "1.0.0",
+  "description": "Skill Alexa para Radio Tatuapé FM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Radio Tatuapé FM",
+  "license": "ISC",
+  "dependencies": {
+    "ask-sdk-core": "^2.7.0",
+    "ask-sdk-model": "^1.19.0"
+  }
+}
+

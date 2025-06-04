@@ -1,0 +1,62 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "radio tatuapé",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.PauseIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.ResumeIntent",
+          "samples": []
+        },
+        {
+          "name": "PlayRadioIntent",
+          "slots": [],
+          "samples": [
+            "tocar",
+            "tocar rádio",
+            "tocar música",
+            "começar",
+            "iniciar",
+            "reproduzir",
+            "play",
+            "ligar a rádio",
+            "quero ouvir",
+            "quero escutar"
+          ]
+        },
+        {
+          "name": "GetInfoIntent",
+          "slots": [],
+          "samples": [
+            "que música está tocando",
+            "qual música",
+            "informações",
+            "sobre a rádio",
+            "o que está tocando"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}
+
