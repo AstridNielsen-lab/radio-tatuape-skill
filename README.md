@@ -1,18 +1,19 @@
-# Radio TatuapÈ FM Alexa Skill
+# Radio Tatuap√© FM Alexa Skill
+![image](https://github.com/user-attachments/assets/93267e56-c734-4c90-bcc3-ca9f93ed9654)
 
-Skill oficial da Radio TatuapÈ FM para Amazon Alexa. Permite ouvir a programaÁ„o ao vivo da r·dio atravÈs de dispositivos Alexa.
+Skill oficial da Radio Tatuap√© FM para Amazon Alexa. Permite ouvir a programa√ß√£o ao vivo da r√°dio atrav√©s de dispositivos Alexa.
 
 ## Funcionalidades
 
-- ReproduÁ„o do stream ao vivo da Radio TatuapÈ FM
-- Controles b·sicos de ·udio (play, pause, resume)
-- InformaÁıes sobre a r·dio
+- Reprodu√ß√£o do stream ao vivo da Radio Tatuap√© FM
+- Controles b√°sicos de √°udio (play, pause, resume)
+- Informa√ß√µes sobre a r√°dio
 
 ## Comandos de Voz
 
-- 'Alexa, abra Radio TatuapÈ'
-- 'Alexa, peÁa para Radio TatuapÈ tocar m˙sica'
-- 'Alexa, reproduzir Radio TatuapÈ'
+- 'Alexa, abra Radio Tatuap√©'
+- 'Alexa, pe√ßa para Radio Tatuap√© tocar m√∫sica'
+- 'Alexa, reproduzir Radio Tatuap√©'
 
 ## Tecnologias
 
